@@ -13,7 +13,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="диаграмма классов_2.svg">
+   sodipodi:docname="2_diagramma_classov_a1.svg">
   <metadata
      id="metadata3216">
     <rdf:RDF>
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -39,9 +39,9 @@
      inkscape:window-height="1017"
      id="namedview3214"
      showgrid="false"
-     inkscape:zoom="0.2797606"
-     inkscape:cx="1887.2971"
-     inkscape:cy="1027.6421"
+     inkscape:zoom="3.1651299"
+     inkscape:cx="2828.1425"
+     inkscape:cy="131.13887"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -10834,7 +10834,7 @@
        sodipodi:role="line"
        id="tspan6254"
        x="2858.02"
-       y="2030.1902">Листов          6</tspan></text>
+       y="2030.1902">Листов          5</tspan></text>
   <text
      xml:space="preserve"
      style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:GOST Common;-inkscape-font-specification:GOST Common"
